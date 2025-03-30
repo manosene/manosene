@@ -53,9 +53,9 @@
 
 <p align="center">
   <a href="https://github.com/manosene"><img alt="Github" title="Manoj Senevirathna" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.snapchat.com/add/username"><img alt="Bad Boy Snapchat" title="Manoj Senevirathna Snapchat" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a>
+  <a href="https://www.snapchat.com/add/username"><img alt="Manoj Senevirathna Snapchat" title="Manoj Senevirathna Snapchat" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a>
   <a href="https://facebook.com/manojsenevirathna.bamunuge.9"><img alt="Manoj Senevirathna Facebook" title="Manoj Senevirathna Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://instagram.com/manosene"><img alt="Instagram" title="Manoj Senevirathna Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/mano_sene"><img alt="Instagram" title="Manoj Senevirathna Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
  <p align="center">
   <a href="mailto:darkmember2000@gmail.com.com"><img alt="Gmail" title="Manoj Senevirathna Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
