@@ -58,7 +58,7 @@
   <a href="https://instagram.com/mano_sene"><img alt="Instagram" title="Manoj Senevirathna Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
  <p align="center">
-  <a href="mailto:darkmember2000@gmail.com.com"><img alt="Gmail" title="Manoj Senevirathna Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:darkmember2000@gmail.com"><img alt="Gmail" title="Manoj Senevirathna Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://t.me/DarkMemberSL"><img alt="Telegram" title="Manoj Senevirathna Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 </p>
 
